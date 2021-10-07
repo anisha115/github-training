@@ -1,2 +1,4 @@
 hello everyone
 hello everyone, I am Git
+
+@copyright notice
