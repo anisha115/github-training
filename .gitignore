@@ -1,2 +1,4 @@
 IgnoreThisFile.txt
 *.log
+*.orig
+
