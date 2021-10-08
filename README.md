@@ -7,4 +7,4 @@ This is a demo repository for explaning git workflow
 Copyright notice
 
 ### How to contribute
-Added the rebasing example
+Clone the repository and Added the rebasing example
